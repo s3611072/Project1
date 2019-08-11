@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day06/code/06_Thread/06_Thread.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day06/code/06_Thread/06_Thread.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day07/code/07_ThreadAndLambda/07_ThreadAndLambda.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day07/code/07_ThreadAndLambda/07_ThreadAndLambda.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day08/code/08_FileAndRecursion/08_FileAndRecursion.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day08/code/08_FileAndRecursion/08_FileAndRecursion.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day09/code/09_IOAndProperties/09_IOAndProperties.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day09/code/09_IOAndProperties/09_IOAndProperties.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day10/code/10_IO/10_IO.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day10/code/10_IO/10_IO.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day11/code/11_Net/11_Net.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day11/code/11_Net/11_Net.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day12/code/12_FunctionalInterface/12_FunctionalInterface.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day12/code/12_FunctionalInterface/12_FunctionalInterface.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day13/code/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" filepath="D:/BaiduNetdiskDownload/new JAVA/Java基础第二部分课程资料/day13/code/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+    </modules>
+  </component>
+</project>
